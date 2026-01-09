@@ -91,7 +91,7 @@ import DiscountModal from '@/components/DiscountModal.vue'
 import DeleteConfirmModal from '@/components/DeleteConfirmModal.vue'
 
 // Constants
-const DEFAULT_API_URL = 'https://crudcrud.com/api/f2c085c04a0546e9a3faea361d330147/unicorns'
+const DEFAULT_API_URL = 'https://crudcrud.com/api/03ba7fbedc6941f486cfa48353014c52/unicorns'
 const OUTLET_NAME = 'Kopi Anak Bangsa'
 const NOTIFICATION_DURATION = 3000
 
